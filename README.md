@@ -8,4 +8,5 @@ Controls
   -Left click (paint mode): Paint on object      
   
 Build Instructions  
-  -Download for application can be found here: https://drive.google.com/file/d/1Sna7kTAJnUzS6dhuGWl6tn6dLHvyGB2I/view?usp=sharing
+  -Download Windows application here: https://drive.google.com/file/d/1Sna7kTAJnUzS6dhuGWl6tn6dLHvyGB2I/view?usp=sharing
+  -Unzip folder and run QweebiTestLQ.exe
